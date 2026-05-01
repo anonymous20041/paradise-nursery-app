@@ -1,0 +1,15 @@
+/* Code implementing the background image for the Paradise Nursery landing page */
+
+.landing-page {
+  /* Set the background image */
+  background-image: url('https://images.unsplash.com/photo-1466781783364-36c953e1f5d7');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  /* Ensure it covers the full screen */
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+}
